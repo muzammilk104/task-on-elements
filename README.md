@@ -1,0 +1,1 @@
+This HTML file demonstrates basic HTML elements, including heading tags (<h1> to <h3>), a paragraph (<p>), a hyperlink (<a>), and an image (<img>). It also includes a DOCTYPE declaration and basic structure with <html>, <head>, and <body> tags.
